@@ -1,0 +1,2 @@
+(reopen-closed-workspace :fetcher github :repo "davidawad/reopen-closed-workspace.el"
+                         :files ("reopen-closed-workspace*.el"))
